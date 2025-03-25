@@ -23,7 +23,7 @@
             "path": "BF_NW/hepatic_veins.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BF/main/BF_NW/hepatic_veins.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#a39aed",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -59,7 +59,7 @@
             "path": "BF_NW/mass_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BF/main/BF_NW/mass_1.stl",
             "opacity": 1.0,
-            "color": "#94e95a",
+            "color": "#90ee90",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -77,7 +77,7 @@
             "path": "BF_NW/mass_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BF/main/BF_NW/mass_2.stl",
             "opacity": 1.0,
-            "color": "#050f06",
+            "color": "#90ee90",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
