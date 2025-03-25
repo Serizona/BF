@@ -95,7 +95,7 @@
             "path": "BF_NW/svc.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BF/main/BF_NW/svc.stl",
             "opacity": 1.0,
-            "color": "#d8654f",
+            "color": "#a39aed",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
